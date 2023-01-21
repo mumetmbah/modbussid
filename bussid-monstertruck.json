@@ -29,6 +29,54 @@
       "link_mods":"https://archive.org/download/buss-monstertruck-pack1/BABS%20MONSTER%20TRUCK%20BY%20KL%20GARAGE.bussidmod",
       "link_livery":""
     },
+	  {
+"id": 1,
+"category": "Truk",
+"title": "Monster Truck Seventy",
+"image": "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Monster-Truck-Seventy-Indonesia.jpeg",
+"link_mods": "https://www.mediafire.com/file/8k3iy0hveez0jgw/Monster_Truck_Seventy_by_Muhammad_Gibran_.bussidmod/file",
+"link_livery": "null"
+},
+{
+"id": 2,
+"category": "Truk",
+"title": "Truck Canter Monster",
+"image": "https://1.bp.blogspot.com/-kOL5vvc7zgs/XlaU9jfByyI/AAAAAAAAC0Y/_eqw14vs-7kKRoUlyIuxXHlaWiIdwR09QCLcBGAsYHQ/s320/IMG_20200226_223919.jpg",
+"link_mods": "https://www.mediafire.com/file/mn6c9otefaq148v/Truck+Canter+Monster.bussidmod/file",
+"link_livery": "null"
+},
+{
+"id": 3,
+"category": "Truk",
+"title": "Hino 500 Monster Truck",
+"image": "https://i.ytimg.com/vi/kfPAdWXLGBM/mqdefault.jpg",
+"link_mods": "http://www.mediafire.com/file/7uwxmu64kio6qjz/Hino_500_Monster.bussidmod/file",
+"link_livery": "null"
+},
+{
+"id": 4,
+"category": "Truk",
+"title": "Monster Truck",
+"image": "https://i.ytimg.com/vi/giGtLdcu_kY/mqdefault.jpg",
+"link_mods": "http://www.mediafire.com/file/xvz2sx8pdjmd3sc/Hino_500_Super_Monster_ZoneID.bussidmod/file",
+"link_livery": "null"
+},
+{
+"id": 5,
+"category": "Truck",
+"title": "Scania Monster Bus Driving",
+"image": "https://i.ytimg.com/vi/aG0pYBjQsQw/maxresdefault.jpg",
+"link_mods": "https://www.mediafire.com/file/pyi40ixi2hay3an/avante_hdd_jf_channel_by_mulil_V1.bussidmod/file",
+"link_livery": "null"
+},
+{
+"id": 6,
+"category": "Truk",
+"title": "Truck Oleng",
+"image": "file:///android_asset/truck.webp",
+"link_mods": "https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
+"link_livery": "https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
+},
     {
       "title":"Bugatti Chiron",
       "image":"https://archive.org/download/buss4mobil-pack1/Bugatti%20Chiron%20By%20Azumods.jpg",
