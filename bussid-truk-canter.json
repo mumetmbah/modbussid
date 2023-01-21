@@ -2,9 +2,9 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"",
-      "main_ads_banner": "ca-app-pub-5436395797043027/8444063625",
-      "main_ads_intertitial":"ca-app-pub-5436395797043027/6939410269",
-      "main_native_for_admob_applovin":"ca-app-pub-5436395797043027/3930103540",
+      "main_ads_banner": "ca-app-pub-4842639303186003/5362665408",
+      "main_ads_intertitial":"ca-app-pub-4842639303186003/2101528504",
+      "main_native_for_admob_applovin":"ca-app-pub-4842639303186003/6827241578",
       "backup_native_for_admob_applovin":"",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
